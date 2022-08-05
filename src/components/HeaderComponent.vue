@@ -1,6 +1,11 @@
 <template>
   <header class="header">
-    <h1>Dog shelter</h1>
+    <h1>
+      Dog shelter
+      <a href="https://github.com/kukhars707/dog-shelter" target="_blank"
+        ><img src="@/assets/github.svg" alt="GitHub"
+      /></a>
+    </h1>
     <AuthComponentVue />
   </header>
 </template>
