@@ -1,0 +1,40 @@
+{
+    "status": 200,
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Li",
+            "birth_day": "12.12.2000",
+            "breed": "Test",
+            "breed_id": "1"
+        },
+        {
+            "id": 2,
+            "name": "La",
+            "birth_day": "12.12.2000",
+            "breed": "Test",
+            "breed_id": "1"
+        },
+        {
+            "id": 3,
+            "name": "Lu",
+            "birth_day": "12.12.2000",
+            "breed": "Test",
+            "breed_id": "1"
+        },
+        {
+            "id": 4,
+            "name": "Liw",
+            "birth_day": "12.12.2000",
+            "breed": "Test",
+            "breed_id": "1"
+        },
+        {
+            "id": 5,
+            "name": "Lir",
+            "birth_day": "12.12.2000",
+            "breed": "Test",
+            "breed_id": "1"
+        }
+    ]
+}
